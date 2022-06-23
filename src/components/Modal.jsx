@@ -19,3 +19,5 @@ const Modal = ({modalOpen, setModalOpen, children}) => {
 };
 
 export default Modal;
+
+
